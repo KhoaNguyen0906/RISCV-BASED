@@ -1,0 +1,193 @@
+{C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/adder_four.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/adder_four.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogmxjxri".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/adder_four.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/design1.sv} {0 {vlog -work work -sv -stats=none {C:\Users\Admin\OneDrive\Máy tính\CTMT\stalling\src\design1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogjmnybc".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:\Users\Admin\OneDrive\Máy tính\CTMT\stalling\src\design1.sv(6): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux_data.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux_data.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog9qjafn".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux_data.sv(3): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/StoreFunc3.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/StoreFunc3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogh58jqa".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/StoreFunc3.sv(4): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/muxb.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/muxb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog0wm1wd".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/muxb.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/stalling_unit.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/stalling_unit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog7700sy".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/stalling_unit.sv(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/regfile.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/regfile.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vloge1gzis".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/regfile.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe1.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogiiq85s".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe1.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux1_forward.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux1_forward.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog4kan9w".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux1_forward.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/imem.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/imem.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogt66ihi".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/imem.sv(4): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe3.sv} {0 {vlog -work work -sv -stats=none {C:\Users\Admin\OneDrive\Máy tính\CTMT\stalling\src\pipe3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog7ckatj".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:\Users\Admin\OneDrive\Máy tính\CTMT\stalling\src\pipe3.sv(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/ConTrolUnit.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/ConTrolUnit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogy82c7s".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/ConTrolUnit.sv(4): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/function3.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/function3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog32z0cq".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/function3.sv(4): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pc.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pc.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogbz5ksh".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pc.sv(3): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/muxa.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/muxa.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog1tshkc".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/muxa.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/brcomp.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/brcomp.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vloghr3yke".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/brcomp.sv(3): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux1.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogc5xfea".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux1.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/lsu.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/lsu.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogf1jyei".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/lsu.sv(4): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/immgen.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/immgen.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlogx5nwnf".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/immgen.sv(3): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe2.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog222v6t".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe2.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux2_forward.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux2_forward.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vloghx3stw".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/mux2_forward.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/hazard_unit.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/hazard_unit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog3ts1hx".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/hazard_unit.sv(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe4.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog7jm54x".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/pipe4.sv(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/ALU.sv} {0 {vlog -work work -sv -stats=none {C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/ALU.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/work/_temp/vlog86tant".
+The system cannot find the path specified. (GetLastError() = 3)
+** Error: C:/Users/Admin/OneDrive/Máy tính/CTMT/stalling/src/ALU.sv(4): Verilog Compiler exiting
+
+} {7.0 8.0} {}}

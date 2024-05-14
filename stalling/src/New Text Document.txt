@@ -1,0 +1,52 @@
+module stalling_unit(
+	input logic [31:0] inst,
+	input clk,
+	input rst,
+	output logic [31:0] inst_out,
+	output stalling_signal
+);
+logic state;
+integer counter;
+initial begin
+	state = 1'b0;
+	counter = 0;
+	end
+always (posedge clk) 
+begin
+	if(rst)
+		begin
+		state = 1'b0;
+		counter = 0;
+	else
+		begin
+		case(state)
+		1'b0: begin
+			inst_out = inst;
+			stalling_signal = 1'b0;
+		if(inst[6:2] == 5'b00000)
+			begin
+			state = 1'b1;
+			end
+		else
+			begin
+			state = 1'b0;
+			end
+		end
+		1'b1: begin
+			stalling_signal = 1'b1;
+			counter = counter + 1;
+				if(counter == 3)
+				begin
+				state = 1'b0;
+				end
+				else
+				begin
+				counter = counter +1;
+				state = 1'b1;
+				end
+			end
+		endcase
+		end	
+			
+end
+endmodule
